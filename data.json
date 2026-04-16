@@ -1,0 +1,226 @@
+{
+    "subjects": [
+        {
+            "name": "Maths",
+            "exam_date": "2026-04-20",
+            "difficulty": 4
+        },
+        {
+            "name": "English",
+            "exam_date": "2026-04-23",
+            "difficulty": 3
+        }
+    ],
+    "timetable": {
+        "2026-04-16": [
+            {
+                "subject": "Maths",
+                "minutes": 30,
+                "done": true
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": true
+            },
+            {
+                "subject": "Maths",
+                "minutes": 30,
+                "done": true
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": true
+            }
+        ],
+        "2026-04-17": [
+            {
+                "subject": "Maths",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "Maths",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            }
+        ],
+        "2026-04-18": [
+            {
+                "subject": "Maths",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "Maths",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "Maths",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            }
+        ],
+        "2026-04-19": [
+            {
+                "subject": "Maths",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "Maths",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "Maths",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            }
+        ],
+        "2026-04-20": [
+            {
+                "subject": "Maths",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "Maths",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            }
+        ],
+        "2026-04-21": [
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            }
+        ],
+        "2026-04-22": [
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": false
+            }
+        ],
+        "2026-04-23": [
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": true
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": true
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": true
+            },
+            {
+                "subject": "English",
+                "minutes": 30,
+                "done": true
+            }
+        ]
+    },
+    "sessions_log": {
+        "Maths": {
+            "2026-04-16": 120
+        },
+        "English": {
+            "2026-04-16": 180
+        }
+    },
+    "goals": {
+        "Maths": 6,
+        "English": 5
+    },
+    "notes": {},
+    "theme": "dark"
+}
